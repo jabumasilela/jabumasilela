@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an AWS employee transitioning from social media customer service into cloud engineering. With insider knowledge of AWS services and a passion for cloud technologies, I'm actively upskilling through hands-on projects and certifications. Currently enrolled in the **AWS re/Start program**, building practical cloud architecture and infrastructure experience while preparing for my first cloud role.
+I'm an AWS employee transitioning from social media customer service into cloud engineering. With a passion for cloud technologies, I'm actively upskilling through hands-on projects and certifications. Currently enrolled in the **AWS re/Start program**, building practical cloud architecture and infrastructure experience while preparing for my first cloud role.
 
 ## 🎓 Badges & Certifications
 
